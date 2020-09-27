@@ -2,7 +2,6 @@ package com.company;
 
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.ArrayListHandler;
-
 import java.util.List;
 
 public class user {
